@@ -1,0 +1,1 @@
+	Readme do curso Hiring Coders - módulo Git
